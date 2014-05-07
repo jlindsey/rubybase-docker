@@ -19,7 +19,7 @@ the rbenv directory so that you aren't reinstalling your bundle from
 scratch every time you deploy:
 
 ```
-$ docker run --name GEM_DATA -v /root/.rbenv jlindsey/ruby-base true
+$ docker run --name GEM_DATA -v /root/.rbenv jlindsey/rubybase-docker true
 $ docker run --name my_app --volumes-from GEM_DATA #...
 ```
 

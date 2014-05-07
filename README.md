@@ -25,8 +25,8 @@ $ docker run --name my_app --volumes-from GEM_DATA #...
 
 License
 -------
-Copyright (c) 2014 Josh Lindsey. See [LICENSE] for details.
+Copyright (c) 2014 Josh Lindsey. See [LICENSE][3] for details.
 
 [1]: https://github.com/phusion/baseimage-docker
 [2]: https://github.com/sstephenson/rbenv
-
+[3]: https://github.com/jlindsey/rubybase-docker/blob/master/LICENSE
